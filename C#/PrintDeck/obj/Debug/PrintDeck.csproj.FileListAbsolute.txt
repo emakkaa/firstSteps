@@ -1,0 +1,6 @@
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintDeck\bin\Debug\PrintDeck.exe.config
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintDeck\bin\Debug\PrintDeck.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintDeck\bin\Debug\PrintDeck.pdb
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintDeck\obj\Debug\PrintDeck.csprojResolveAssemblyReference.cache
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintDeck\obj\Debug\PrintDeck.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintDeck\obj\Debug\PrintDeck.pdb

@@ -1,0 +1,6 @@
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Trailing0InN!\bin\Debug\Trailing0InN!.exe.config
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Trailing0InN!\bin\Debug\Trailing0InN!.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Trailing0InN!\bin\Debug\Trailing0InN!.pdb
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Trailing0InN!\obj\Debug\Trailing0InN!.csprojResolveAssemblyReference.cache
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Trailing0InN!\obj\Debug\Trailing0InN!.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Trailing0InN!\obj\Debug\Trailing0InN!.pdb

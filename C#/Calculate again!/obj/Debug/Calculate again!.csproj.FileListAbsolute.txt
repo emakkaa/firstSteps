@@ -1,0 +1,6 @@
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Calculate again!\bin\Debug\Calculate again!.exe.config
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Calculate again!\bin\Debug\Calculate again!.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Calculate again!\bin\Debug\Calculate again!.pdb
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Calculate again!\obj\Debug\Calculate again!.csprojResolveAssemblyReference.cache
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Calculate again!\obj\Debug\Calculate again!.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\Calculate again!\obj\Debug\Calculate again!.pdb

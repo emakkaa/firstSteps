@@ -1,0 +1,6 @@
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

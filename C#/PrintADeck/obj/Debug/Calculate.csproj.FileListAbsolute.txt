@@ -1,0 +1,5 @@
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintADeck\bin\Debug\PrintADeck.exe.config
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintADeck\obj\Debug\PrintADeck.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintADeck\obj\Debug\PrintADeck.pdb
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintADeck\bin\Debug\PrintADeck.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\PrintADeck\bin\Debug\PrintADeck.pdb

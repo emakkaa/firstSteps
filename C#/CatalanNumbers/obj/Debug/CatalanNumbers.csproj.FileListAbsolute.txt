@@ -1,0 +1,6 @@
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.csprojResolveAssemblyReference.cache
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.pdb
