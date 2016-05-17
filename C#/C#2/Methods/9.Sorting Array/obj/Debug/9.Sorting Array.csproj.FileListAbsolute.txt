@@ -1,0 +1,5 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\9.Sorting Array\bin\Debug\9.Sorting Array.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\9.Sorting Array\bin\Debug\9.Sorting Array.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\9.Sorting Array\bin\Debug\9.Sorting Array.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\9.Sorting Array\obj\Debug\9.Sorting Array.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\9.Sorting Array\obj\Debug\9.Sorting Array.pdb

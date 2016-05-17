@@ -1,0 +1,5 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\4.HexadecimalToDecimal\bin\Debug\4.HexadecimalToDecimal.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\4.HexadecimalToDecimal\bin\Debug\4.HexadecimalToDecimal.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\4.HexadecimalToDecimal\bin\Debug\4.HexadecimalToDecimal.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\4.HexadecimalToDecimal\obj\Debug\4.HexadecimalToDecimal.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\4.HexadecimalToDecimal\obj\Debug\4.HexadecimalToDecimal.pdb

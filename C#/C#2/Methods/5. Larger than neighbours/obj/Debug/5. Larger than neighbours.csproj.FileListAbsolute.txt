@@ -1,0 +1,6 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\5. Larger than neighbours\bin\Debug\_5.Larger_than_neighbours.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\5. Larger than neighbours\bin\Debug\_5.Larger_than_neighbours.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\5. Larger than neighbours\bin\Debug\_5.Larger_than_neighbours.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\5. Larger than neighbours\obj\Debug\5. Larger than neighbours.csprojResolveAssemblyReference.cache
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\5. Larger than neighbours\obj\Debug\_5.Larger_than_neighbours.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\5. Larger than neighbours\obj\Debug\_5.Larger_than_neighbours.pdb

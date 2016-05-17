@@ -1,0 +1,6 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.pdb

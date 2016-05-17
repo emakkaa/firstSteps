@@ -1,0 +1,5 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\5.HexadecimalToBinary\obj\Debug\5.HexadecimalToBinary.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\5.HexadecimalToBinary\obj\Debug\5.HexadecimalToBinary.pdb

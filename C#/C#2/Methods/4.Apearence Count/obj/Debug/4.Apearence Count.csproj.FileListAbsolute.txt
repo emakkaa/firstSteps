@@ -1,0 +1,5 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\4.Apearence Count\bin\Debug\4.Apearence Count.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\4.Apearence Count\bin\Debug\4.Apearence Count.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\4.Apearence Count\bin\Debug\4.Apearence Count.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\4.Apearence Count\obj\Debug\4.Apearence Count.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\4.Apearence Count\obj\Debug\4.Apearence Count.pdb

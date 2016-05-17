@@ -1,0 +1,6 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.pdb

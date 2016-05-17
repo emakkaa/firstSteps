@@ -1,0 +1,6 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\2.Get Largest Number\bin\Debug\2.Get Largest Number.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\2.Get Largest Number\bin\Debug\2.Get Largest Number.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\2.Get Largest Number\bin\Debug\2.Get Largest Number.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\2.Get Largest Number\obj\Debug\2.Get Largest Number.csprojResolveAssemblyReference.cache
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\2.Get Largest Number\obj\Debug\2.Get Largest Number.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\2.Get Largest Number\obj\Debug\2.Get Largest Number.pdb

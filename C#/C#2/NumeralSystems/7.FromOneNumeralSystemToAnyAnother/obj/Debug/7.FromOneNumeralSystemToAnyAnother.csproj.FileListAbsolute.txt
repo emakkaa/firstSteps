@@ -1,0 +1,6 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\7.FromOneNumeralSystemToAnyAnother\bin\Debug\7.FromOneNumeralSystemToAnyAnother.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\7.FromOneNumeralSystemToAnyAnother\obj\Debug\7.FromOneNumeralSystemToAnyAnother.csprojResolveAssemblyReference.cache
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\7.FromOneNumeralSystemToAnyAnother\bin\Debug\7.FromOneNumeralSystemToAnyAnother.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\7.FromOneNumeralSystemToAnyAnother\bin\Debug\7.FromOneNumeralSystemToAnyAnother.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\7.FromOneNumeralSystemToAnyAnother\obj\Debug\7.FromOneNumeralSystemToAnyAnother.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\7.FromOneNumeralSystemToAnyAnother\obj\Debug\7.FromOneNumeralSystemToAnyAnother.pdb

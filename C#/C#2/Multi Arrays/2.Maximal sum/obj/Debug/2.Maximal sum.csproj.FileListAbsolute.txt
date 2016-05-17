@@ -1,0 +1,6 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\Multi Arrays\2.Maximal sum\bin\Debug\2.Maximal sum.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\Multi Arrays\2.Maximal sum\bin\Debug\2.Maximal sum.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Multi Arrays\2.Maximal sum\bin\Debug\2.Maximal sum.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\Multi Arrays\2.Maximal sum\obj\Debug\2.Maximal sum.csprojResolveAssemblyReference.cache
+c:\users\emakkaa\documents\visual studio 2015\Projects\Multi Arrays\2.Maximal sum\obj\Debug\2.Maximal sum.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Multi Arrays\2.Maximal sum\obj\Debug\2.Maximal sum.pdb

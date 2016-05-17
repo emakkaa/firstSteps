@@ -1,0 +1,6 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\4.Largest Area In Matrixx\bin\Debug\4.Largest Area In Matrixx.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\4.Largest Area In Matrixx\bin\Debug\4.Largest Area In Matrixx.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\4.Largest Area In Matrixx\bin\Debug\4.Largest Area In Matrixx.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\4.Largest Area In Matrixx\obj\Debug\4.Largest Area In Matrixx.csprojResolveAssemblyReference.cache
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\4.Largest Area In Matrixx\obj\Debug\4.Largest Area In Matrixx.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\4.Largest Area In Matrixx\obj\Debug\4.Largest Area In Matrixx.pdb

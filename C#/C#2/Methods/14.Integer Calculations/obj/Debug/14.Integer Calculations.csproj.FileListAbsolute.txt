@@ -1,0 +1,6 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\14.Integer Calculations\bin\Debug\14.Integer Calculations.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\14.Integer Calculations\bin\Debug\14.Integer Calculations.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\14.Integer Calculations\bin\Debug\14.Integer Calculations.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\14.Integer Calculations\obj\Debug\14.Integer Calculations.csprojResolveAssemblyReference.cache
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\14.Integer Calculations\obj\Debug\14.Integer Calculations.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\14.Integer Calculations\obj\Debug\14.Integer Calculations.pdb

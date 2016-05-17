@@ -1,0 +1,2 @@
+﻿  Animals.cpp
+c:\users\emakkaa\documents\visual studio 2015\projects\c++nasledqvane\animals\animals.cpp(18): error C2660: 'strcpy_s': function does not take 2 arguments

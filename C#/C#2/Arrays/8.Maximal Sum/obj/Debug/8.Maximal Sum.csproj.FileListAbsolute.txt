@@ -1,0 +1,5 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\8.Maximal Sum\bin\Debug\8.Maximal Sum.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\8.Maximal Sum\bin\Debug\8.Maximal Sum.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\8.Maximal Sum\bin\Debug\8.Maximal Sum.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\8.Maximal Sum\obj\Debug\8.Maximal Sum.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\8.Maximal Sum\obj\Debug\8.Maximal Sum.pdb

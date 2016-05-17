@@ -1,0 +1,5 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.pdb

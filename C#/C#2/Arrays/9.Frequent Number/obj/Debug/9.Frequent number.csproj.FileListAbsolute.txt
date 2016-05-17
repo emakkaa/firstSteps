@@ -1,0 +1,5 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\Frequent number\bin\Debug\Frequent number.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\Frequent number\bin\Debug\Frequent number.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\Frequent number\bin\Debug\Frequent number.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\Frequent number\obj\Debug\Frequent number.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\Frequent number\obj\Debug\Frequent number.pdb

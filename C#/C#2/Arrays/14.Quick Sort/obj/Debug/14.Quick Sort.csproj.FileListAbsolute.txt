@@ -1,0 +1,6 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\14.Quick Sort\bin\Debug\14.Quick Sort.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\14.Quick Sort\bin\Debug\14.Quick Sort.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\14.Quick Sort\bin\Debug\14.Quick Sort.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\14.Quick Sort\obj\Debug\14.Quick Sort.csprojResolveAssemblyReference.cache
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\14.Quick Sort\obj\Debug\14.Quick Sort.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\14.Quick Sort\obj\Debug\14.Quick Sort.pdb

@@ -1,0 +1,6 @@
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\5. Maximal Increasing Sequence\bin\Debug\_5.Maximal_Increasing_Sequence.exe.config
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\5. Maximal Increasing Sequence\bin\Debug\_5.Maximal_Increasing_Sequence.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\5. Maximal Increasing Sequence\bin\Debug\_5.Maximal_Increasing_Sequence.pdb
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\5. Maximal Increasing Sequence\obj\Debug\_5.Maximal_Increasing_Sequence.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\5. Maximal Increasing Sequence\obj\Debug\_5.Maximal_Increasing_Sequence.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\5. Maximal Increasing Sequence\obj\Debug\5. Maximal Increasing Sequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\7.Reverse Number\bin\Debug\7.Reverse Number.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\7.Reverse Number\bin\Debug\7.Reverse Number.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\7.Reverse Number\bin\Debug\7.Reverse Number.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\7.Reverse Number\obj\Debug\7.Reverse Number.csprojResolveAssemblyReference.cache
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\7.Reverse Number\obj\Debug\7.Reverse Number.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\7.Reverse Number\obj\Debug\7.Reverse Number.pdb

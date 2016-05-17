@@ -1,0 +1,6 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\3.Sequence in matrix\bin\Debug\3.Sequence in matrix.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\3.Sequence in matrix\obj\Debug\3.Sequence in matrix.csprojResolveAssemblyReference.cache
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\3.Sequence in matrix\bin\Debug\3.Sequence in matrix.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\3.Sequence in matrix\bin\Debug\3.Sequence in matrix.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\3.Sequence in matrix\obj\Debug\3.Sequence in matrix.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Multi Arrays\3.Sequence in matrix\obj\Debug\3.Sequence in matrix.pdb

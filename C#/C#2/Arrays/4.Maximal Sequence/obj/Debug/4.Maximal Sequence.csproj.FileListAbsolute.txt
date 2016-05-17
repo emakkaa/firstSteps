@@ -1,0 +1,5 @@
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\4.Maximal Sequence\bin\Debug\4.Maximal Sequence.exe.config
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\4.Maximal Sequence\bin\Debug\4.Maximal Sequence.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\4.Maximal Sequence\bin\Debug\4.Maximal Sequence.pdb
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\4.Maximal Sequence\obj\Debug\4.Maximal Sequence.exe
+c:\Users\Emakkaa\documents\visual studio 2015\Projects\arrays\4.Maximal Sequence\obj\Debug\4.Maximal Sequence.pdb

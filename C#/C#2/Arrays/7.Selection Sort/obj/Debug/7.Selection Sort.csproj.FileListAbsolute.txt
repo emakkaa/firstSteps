@@ -1,0 +1,5 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\7.Selection Sort\bin\Debug\7.Selection Sort.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\7.Selection Sort\bin\Debug\7.Selection Sort.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\7.Selection Sort\bin\Debug\7.Selection Sort.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\7.Selection Sort\obj\Debug\7.Selection Sort.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\7.Selection Sort\obj\Debug\7.Selection Sort.pdb

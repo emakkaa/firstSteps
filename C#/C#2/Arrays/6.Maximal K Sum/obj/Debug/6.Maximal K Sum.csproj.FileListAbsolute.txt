@@ -1,0 +1,6 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\6.Maximal K Sum\bin\Debug\6.Maximal K Sum.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\6.Maximal K Sum\bin\Debug\6.Maximal K Sum.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\6.Maximal K Sum\bin\Debug\6.Maximal K Sum.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\6.Maximal K Sum\obj\Debug\6.Maximal K Sum.csprojResolveAssemblyReference.cache
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\6.Maximal K Sum\obj\Debug\6.Maximal K Sum.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\arrays\6.Maximal K Sum\obj\Debug\6.Maximal K Sum.pdb

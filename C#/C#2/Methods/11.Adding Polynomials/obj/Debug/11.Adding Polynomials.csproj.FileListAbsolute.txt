@@ -1,0 +1,6 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\11.Adding Polynomials\bin\Debug\11.Adding Polynomials.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\11.Adding Polynomials\bin\Debug\11.Adding Polynomials.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\11.Adding Polynomials\bin\Debug\11.Adding Polynomials.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\11.Adding Polynomials\obj\Debug\11.Adding Polynomials.csprojResolveAssemblyReference.cache
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\11.Adding Polynomials\obj\Debug\11.Adding Polynomials.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\11.Adding Polynomials\obj\Debug\11.Adding Polynomials.pdb

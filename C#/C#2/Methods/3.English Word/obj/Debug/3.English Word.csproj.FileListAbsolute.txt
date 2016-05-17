@@ -1,0 +1,5 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\3.English Word\bin\Debug\3.English Word.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\3.English Word\bin\Debug\3.English Word.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\3.English Word\bin\Debug\3.English Word.pdb
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\3.English Word\obj\Debug\3.English Word.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\3.English Word\obj\Debug\3.English Word.pdb

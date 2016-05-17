@@ -1,0 +1,3 @@
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Emakkaa\Documents\Visual Studio 2015\Projects\Methods\Methods\obj\Debug\Methods.pdb

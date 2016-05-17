@@ -1,0 +1,6 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\8.Binary short\bin\Debug\8.Binary short.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\8.Binary short\obj\Debug\8.Binary short.csprojResolveAssemblyReference.cache
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\8.Binary short\bin\Debug\8.Binary short.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\8.Binary short\bin\Debug\8.Binary short.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\8.Binary short\obj\Debug\8.Binary short.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\NumeralSystems\8.Binary short\obj\Debug\8.Binary short.pdb
