@@ -1,0 +1,5 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\8.Sum Integers\bin\Debug\8.Sum Integers.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\8.Sum Integers\bin\Debug\8.Sum Integers.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\8.Sum Integers\bin\Debug\8.Sum Integers.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\8.Sum Integers\obj\Debug\8.Sum Integers.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\8.Sum Integers\obj\Debug\8.Sum Integers.pdb

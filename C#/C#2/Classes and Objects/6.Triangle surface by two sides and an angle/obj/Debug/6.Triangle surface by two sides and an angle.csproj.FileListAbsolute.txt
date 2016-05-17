@@ -1,0 +1,5 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\6.Triangle surface by two sides and an angle\bin\Debug\6.Triangle surface by two sides and an angle.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\6.Triangle surface by two sides and an angle\bin\Debug\6.Triangle surface by two sides and an angle.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\6.Triangle surface by two sides and an angle\bin\Debug\6.Triangle surface by two sides and an angle.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\6.Triangle surface by two sides and an angle\obj\Debug\6.Triangle surface by two sides and an angle.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\6.Triangle surface by two sides and an angle\obj\Debug\6.Triangle surface by two sides and an angle.pdb

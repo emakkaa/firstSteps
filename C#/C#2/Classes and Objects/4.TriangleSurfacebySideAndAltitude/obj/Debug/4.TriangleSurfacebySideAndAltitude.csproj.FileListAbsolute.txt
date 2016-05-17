@@ -1,0 +1,6 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\4.TriangleSurfacebySideAndAltitude\bin\Debug\4.TriangleSurfacebySideAndAltitude.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\4.TriangleSurfacebySideAndAltitude\bin\Debug\4.TriangleSurfacebySideAndAltitude.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\4.TriangleSurfacebySideAndAltitude\bin\Debug\4.TriangleSurfacebySideAndAltitude.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\4.TriangleSurfacebySideAndAltitude\obj\Debug\4.TriangleSurfacebySideAndAltitude.csprojResolveAssemblyReference.cache
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\4.TriangleSurfacebySideAndAltitude\obj\Debug\4.TriangleSurfacebySideAndAltitude.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\4.TriangleSurfacebySideAndAltitude\obj\Debug\4.TriangleSurfacebySideAndAltitude.pdb

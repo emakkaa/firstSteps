@@ -1,0 +1,5 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\5.Triangle surface by three sides\bin\Debug\5.Triangle surface by three sides.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\5.Triangle surface by three sides\bin\Debug\5.Triangle surface by three sides.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\5.Triangle surface by three sides\bin\Debug\5.Triangle surface by three sides.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\5.Triangle surface by three sides\obj\Debug\5.Triangle surface by three sides.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\Classes and Objects\5.Triangle surface by three sides\obj\Debug\5.Triangle surface by three sides.pdb
