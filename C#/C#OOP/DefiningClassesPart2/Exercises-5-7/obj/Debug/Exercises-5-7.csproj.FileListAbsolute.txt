@@ -1,0 +1,6 @@
+c:\users\emakkaa\documents\visual studio 2015\Projects\DefiningClassesPart2\Exercises-5-7\bin\Debug\Exercises-5-7.exe.config
+c:\users\emakkaa\documents\visual studio 2015\Projects\DefiningClassesPart2\Exercises-5-7\bin\Debug\Exercises-5-7.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\DefiningClassesPart2\Exercises-5-7\bin\Debug\Exercises-5-7.pdb
+c:\users\emakkaa\documents\visual studio 2015\Projects\DefiningClassesPart2\Exercises-5-7\obj\Debug\Exercises-5-7.csprojResolveAssemblyReference.cache
+c:\users\emakkaa\documents\visual studio 2015\Projects\DefiningClassesPart2\Exercises-5-7\obj\Debug\Exercises-5-7.exe
+c:\users\emakkaa\documents\visual studio 2015\Projects\DefiningClassesPart2\Exercises-5-7\obj\Debug\Exercises-5-7.pdb
